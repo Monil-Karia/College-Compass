@@ -1,0 +1,176 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
+
+section {
+  padding: 2rem 9%;
+}
+
+:root {
+  --main-color: rgb(255, 255, 255);
+  /* --border-radius: 95% 4% 97% 5% / 4% 94% 3% 95%; */
+  --border: 0.2rem solid var(--main-color);
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  text-transform: capitalize;
+  transition: all 0.2s linear;
+}
+
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-padding-top: 7rem;
+  scroll-behavior: smooth;
+}
+
+.heading {
+  font-size: 4rem;
+  text-transform: uppercase;
+  color: var(--main-color);
+  text-align: left;
+  pointer-events: none;
+  position: relative;
+  padding-bottom: 2rem;
+}
+
+/* .btn {
+  display: inline-block;
+  padding: 0.9rem 1.5rem;
+  border: var(--border);
+  color: var(--main-color);
+  background: none;
+  cursor: pointer;
+  margin-top: 1rem;
+  font-size: 1.7rem;
+} */
+
+/* .home {
+  min-height: 100vh;
+  padding-top: 12rem;
+  background: url(home-bg.jpg);
+  background-position: center;
+  background-size: cover;
+} */
+
+/* .home .row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.home .row .content {
+  flex: 3 1 42rem;
+}
+.home .row .content h3 {
+  font-size: 6.5rem;
+  color: var(--main-color);
+  text-transform: uppercase;
+  padding-bottom: 20rem;
+}
+
+.home .image .main-home-image {
+  -webkit-box-reflect: below 0px
+    linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3));
+} */
+
+.menu {
+  background: #6c64ff;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu .box-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.menu .box-container .box {
+  flex: 1 1 42rem;
+  padding: 2rem;
+  border: var(--border);
+  border-radius: var(--border-radius);
+  display: flex;
+  align-items: center;
+  gap: 14rem;
+  margin-left: 6rem;
+}
+
+.menu .box-container .box .content h3 {
+  font-size: 2.2rem;
+  color: var(--main-color);
+  line-height: 1.8;
+}
+
+.menu .box-container .box .content p {
+  font-size: 1.6rem;
+  color: var(--main-color);
+  line-height: 1.8;
+  padding: 1rem 0;
+}
+
+.menu .box-container .box .content span {
+  font-size: 1.3rem;
+  color: var(--main-color);
+  line-height: 1.8;
+}
+
+.menu .box-container .box .img_prof {
+  width: 150px; /* adjust the width and height as needed */
+  height: 150px;
+  border-radius: 50%; /* creates a circular shape */
+  border: 2px solid rgb(255, 254, 254); /* sets the border color and width */
+  overflow: hidden; /* ensures the image stays within the circular shape */
+}
+
+.menu .box-container .box .img_prof img {
+  width: 100%; /* makes the image fill the container */
+  height: 100%;
+  object-fit: cover; /* maintains the image's aspect ratio */
+}
+
+/* .book {
+  background: url(book-bg.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.book form {
+  margin: 0 auto 2rem auto;
+  max-width: 60rem;
+  border-radius: var(--border-radius);
+  padding: 3rem;
+  border: var(--border);
+}
+
+.book form .box {
+  width: 100%;
+  padding: 1rem 1.2rem;
+  border-radius: 0.5rem;
+  font-size: 1.6rem;
+  background: none;
+  color: var(--main-color);
+  border: var(--border);
+  margin: 0.7rem 0;
+}
+
+.book form textarea {
+  height: 15rem;
+  resize: none;
+}
+
+.book .credit {
+  text-align: center;
+  font-size: 2rem;
+  padding: 2rem 1rem;
+  margin-top: 1rem;
+  color: var(--main-color);
+} */
