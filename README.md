@@ -12,6 +12,15 @@ College Compass is a comprehensive web application offering essential solutions 
 - [ ]  **Club Activities:** The application serves as a hub for various student clubs and organizations, providing information about their activities, meetings, and events. It offers a platform for students to explore their interests and join relevant groups.
 
 ## Screenshot’s
+### Landing Page
+![landing-page](https://github.com/Monil-Karia/College-Compass/assets/90109071/d1d47baa-ff56-451b-b309-2fe8372db249)
+![Loom _ Free Screen  Video Recording Software _ Loom - 16 June 2023 (1)](https://github.com/Monil-Karia/College-Compass/assets/90109071/f76c4df7-1277-46b5-ae9e-936275d057f5)
+
+### Login Page
+![Login-Collage](https://github.com/Monil-Karia/College-Compass/assets/90109071/bc2087c2-fbcd-43b1-8a4a-8df1993aec7a)
+
+## Professors Grid(Work going on) :(
+![Professors](https://github.com/Monil-Karia/College-Compass/assets/90109071/31c922a7-2670-4a98-a82a-4c05a5bde87a)
 
 ## **Future Scope**
 
