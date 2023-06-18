@@ -19,6 +19,9 @@ College Compass is a comprehensive web application offering essential solutions 
 ### Login Page
 ![Login-Collage](https://github.com/Monil-Karia/College-Compass/assets/90109071/bc2087c2-fbcd-43b1-8a4a-8df1993aec7a)
 
+### Profile Page
+![Profil-Page](https://github.com/minuszero-01/College-Compass/blob/2f1fd8411022ef538811dcf8b515f640b2b878e4/Screenshots/Student_info_1.png)
+
 ## Professors Grid(Work going on) :(
 ![Professors](https://github.com/Monil-Karia/College-Compass/assets/90109071/31c922a7-2670-4a98-a82a-4c05a5bde87a)
 
